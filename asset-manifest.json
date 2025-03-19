@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/India-Map/static/css/main.4efb37a3.css",
+    "main.js": "/India-Map/static/js/main.e52c4b3d.js",
+    "static/js/206.bee66f8e.chunk.js": "/India-Map/static/js/206.bee66f8e.chunk.js",
+    "static/media/india.geojson": "/India-Map/static/media/india.258787a93cbd138d9768.geojson",
+    "index.html": "/India-Map/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4efb37a3.css",
+    "static/js/main.e52c4b3d.js"
+  ]
+}
